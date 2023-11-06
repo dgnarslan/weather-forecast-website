@@ -24,7 +24,7 @@ After cloning the project, open it in Visual Studio Code.
 For Linux:
 
 ```linux
-cd patikajshomework3
+cd weather-forecast-website
 code .
 ```
 
